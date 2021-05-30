@@ -12,5 +12,5 @@
  - boot_sect_memory_without_org.asm 
    boot_sect_memory_with_org.asm
    ![boot sector diagram](https://github.com/meetsandesh/OS-EX/blob/main/boot_sector.png)
- - boot_sect+_stack.asm
+ - boot_sect_stack.asm
 
