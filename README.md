@@ -6,3 +6,7 @@
 `
 **run**:
 	qemu-system-x86_64 boot_sect_simple.bin
+
+**order to access**:
+	boot_sect_simple.asm
+	boot_sect_hello_world.asm
