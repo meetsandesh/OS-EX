@@ -13,4 +13,5 @@
    ![boot sector diagram](https://github.com/meetsandesh/OS-EX/blob/main/boot_sector.png)
  - boot_sect_stack.asm
  - boot_sect_print_main.asm , boot_sect_print.asm , boot_sect_print_hex.asm
+ - boot_sect_segmentation.asm
 
