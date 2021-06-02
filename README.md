@@ -26,3 +26,4 @@
  - kernel-barebones
  - kernel-checkpoint
  - kernel-video-port
+ - kernel-video-driver
