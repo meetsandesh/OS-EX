@@ -1,7 +1,13 @@
 
 # OS-EX  
   OS example  
-  
+
+## development environment
+	OS: Ubuntu
+## Softwares/Libraries:  
+ - `sudo apt-get install gcc`
+ - `sudo apt-get install gdb`
+ - `sudo apt-get install gdb-doc`
 ## compile:  
  `nasm -f bin boot_sect_simple.asm -o boot_sect_simple.bin` 
 ## run:  
