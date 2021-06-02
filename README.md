@@ -5,6 +5,7 @@
 
 ## Development Environment
 	OS: Ubuntu
+
 ## Softwares/Libraries:  
  - `sudo apt-get install gcc`
  - `sudo apt-get install gdb`
@@ -15,14 +16,19 @@
  - `sudo apt-get install libmpc-dev`
  - `sudo apt-get install libmpfr-dev`
  - `sudo apt-get install build-essential`
+
 ## Compile:  
  `nasm -f bin boot_sect_simple.asm -o boot_sect_simple.bin` 
+
 ## Link output files:
  `ld -o kernel.bin -Ttext 0x1000 kernel_entry.o kernel.o --oformat binary`
+
 ## Generate Binary:
  `nasm bootsect.asm -f bin -o bootsect.bin`
+
 ## Run:  
  `qemu-system-x86_64 boot_sect_simple.bin`  
+
 ## Order to access files:  
  - boot_sect_simple.asm 
  - boot_sect_hello_world.asm 
