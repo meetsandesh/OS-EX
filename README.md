@@ -15,4 +15,6 @@
  - boot_sect_print_main.asm , boot_sect_print.asm , boot_sect_print_hex.asm
  - boot_sect_segmentation.asm
  - boot_sect_disk_main.asm , boot_sect_disk.asm
- - kernal
+ - 32bit-main.asm , 32bit-gdt.asm , 32bit-print.asm , 32bit-switch.asm
+ - kernel
+ - kernel-barebones
