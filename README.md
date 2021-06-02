@@ -18,3 +18,4 @@
  - 32bit-main.asm , 32bit-gdt.asm , 32bit-print.asm , 32bit-switch.asm
  - kernel
  - kernel-barebones
+ - kernel-checkpoint
