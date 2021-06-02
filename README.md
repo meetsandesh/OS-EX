@@ -15,4 +15,4 @@
  - boot_sect_print_main.asm , boot_sect_print.asm , boot_sect_print_hex.asm
  - boot_sect_segmentation.asm
  - boot_sect_disk_main.asm , boot_sect_disk.asm
-
+ - kernal
