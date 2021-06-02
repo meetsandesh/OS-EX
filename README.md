@@ -19,3 +19,4 @@
  - kernel
  - kernel-barebones
  - kernel-checkpoint
+ - kernel-video-port
