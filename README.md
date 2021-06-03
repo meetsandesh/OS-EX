@@ -46,3 +46,4 @@
  - kernel-video-driver
  - kernel-video-scroll
  - kernel-interrupts
+ - kernel-interrupts-irq
