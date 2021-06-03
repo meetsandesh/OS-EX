@@ -48,3 +48,5 @@
  - kernel-interrupts
  - kernel-interrupts-irq
  - kernel-interrupts-timer
+ - shell
+ - malloc
