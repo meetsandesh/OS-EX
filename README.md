@@ -47,3 +47,4 @@
  - kernel-video-scroll
  - kernel-interrupts
  - kernel-interrupts-irq
+ - kernel-interrupts-timer
