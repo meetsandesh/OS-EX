@@ -50,3 +50,4 @@
  - kernel-interrupts-timer
  - shell
  - malloc
+ - custom-simple-shell
