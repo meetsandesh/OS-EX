@@ -45,3 +45,4 @@
  - kernel-video-port
  - kernel-video-driver
  - kernel-video-scroll
+ - kernel-interrupts
